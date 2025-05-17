@@ -38,10 +38,6 @@ zed-restaurant/
 - `Menu`
 - Footer with contact info and links
 
-## 📸 Preview
-
-![screenshot](screenshot.png)
-
 ## 📌 Future Improvements
 
 - Add routing or tab navigation (single-page behavior)
